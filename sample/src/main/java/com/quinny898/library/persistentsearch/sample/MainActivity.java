@@ -50,7 +50,7 @@ public class MainActivity extends Activity {
 			public void onSearchClosed() {
 				//Use this to un-tint the screen
 			}
-
+			
 			@Override
 			public void onSearchTermChanged(String term) {
 				//React to the search term changing
